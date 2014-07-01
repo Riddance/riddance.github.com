@@ -2,7 +2,6 @@
 layout: page
 ---
 {% include JB/setup %}
-
 <div class="posts">
   {% for post in site.posts %}
     <div class="post">
